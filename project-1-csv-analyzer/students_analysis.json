@@ -1,0 +1,20 @@
+{
+    "total_students": 20,
+    "students_per_country": {
+        "Singapore": 4,
+        "Australia": 5,
+        "China": 4,
+        "USA": 3,
+        "UK": 2,
+        "Canada": 2
+    },
+    "students_bet_percentage": {
+        "counts": {
+            "active": 7,
+            "completed": 8,
+            "failed": 3,
+            "pending": 2
+        },
+        "completion_rate": 0.4
+    }
+}

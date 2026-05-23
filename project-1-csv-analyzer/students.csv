@@ -1,0 +1,21 @@
+name,email,joined_date,country,bet_status
+Alice,alice@example.com,2026-05-01,Singapore,active
+Bob,bob@example.com,2026-05-02,Australia,completed
+Chen Wei,chenwei@example.com,2026-04-15,China,completed
+Sarah Johnson,sarahj@example.com,2026-03-20,Australia,failed
+Liu Xin,liuxin@example.com,2026-05-10,Singapore,active
+Mike Brown,mikeb@example.com,2026-04-28,USA,completed
+Wang Mei,wangmei@example.com,2026-03-05,China,failed
+Emma Wilson,emmaw@example.com,2026-05-15,UK,active
+Zhang Lei,zhanglei@example.com,2026-02-18,Australia,completed
+David Kim,davidkim@example.com,2026-04-10,Singapore,active
+Lin Hua,linhua@example.com,2026-05-22,China,pending
+James Taylor,jamest@example.com,2026-03-30,Canada,completed
+Lily Chen,lilyc@example.com,2026-04-05,Australia,active
+Tom Anderson,toma@example.com,2026-05-08,USA,failed
+Wu Jing,wujing@example.com,2026-02-25,China,completed
+Sophie Martin,sophiem@example.com,2026-03-12,UK,active
+Kevin Lee,kevinl@example.com,2026-04-22,Australia,completed
+Anna Wang,annaw@example.com,2026-05-18,Singapore,pending
+Ryan Patel,ryanp@example.com,2026-03-08,Canada,active
+Maria Garcia,mariag@example.com,2026-04-30,USA,completed
